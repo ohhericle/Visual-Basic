@@ -1,2 +1,2 @@
-# Collection of all my public programs & projects done in Visual-Basic
+# Collection of all my programs & projects done in Visual-Basic
 - 
